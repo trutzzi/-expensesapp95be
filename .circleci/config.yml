@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  buildBe:
+  build:
     docker:
       - image: cimg/node:17.2.0
     working_directory: ~/repo
