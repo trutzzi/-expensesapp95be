@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "expensesapp95"
+  },
+  "targets": {
+    "expensesapp95": {
+      "hosting": {
+        "website": [
+          "coolproject-website",
+          "expensesapp95be"
+        ]
+      }
+    }
+  }
+}
